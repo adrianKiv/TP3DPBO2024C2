@@ -6,16 +6,15 @@ Saya Adrian Mulianto NIM [2200939] mengerjakan soal Tugas Praktikum 3 dalam mata
 ![TP3DPBO_Desain](https://github.com/adrianKiv/TP3DPBO2024C2/assets/134991383/f3f666db-3009-4203-9ce0-8163c6d13ef4)
 
 Terdapat beberapa folder di dalam program :
-`assets` menyimpan file foto dari masukan user
-`classes` berisikan kode-kode yang menghubungkan dengan database, juga melakukan operasi CRUD (create, read, update, delete) pada setiap table (data) yang di tampilkan kelas-kelas nya antara lain:
-      - Anggota
-      - Buku
-      - DB
-      - Genre
-      - Peminjaman
-      - Template
-`config` menghubugnkan dengan database
-`templates` template tampilan yang akan di tampilkan di website
+
+`assets` menyimpan file foto dari masukan user.
+
+`classes` berisikan kode-kode yang menghubungkan dengan database, juga melakukan operasi CRUD (create, read, update, delete) pada setiap table (data) yang di tampilkan kelas-kelas nya antara lain (Anggota, Buku, DB, Genre, Peminjaman, Template.
+
+`config` menghubugnkan dengan database.
+
+`templates` template tampilan yang akan di tampilkan di website.
+
 
 Setiap table dapat melakukan proses CRUD 
 Tambah data : Buku, Anggota, Genre, Peminjaman
